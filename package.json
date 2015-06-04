@@ -1,6 +1,6 @@
 {
   "name": "pvjs",
-  "version": "2.4.1",
+  "version": "2.4.10",
   "description": "Diagram viewer and editor for biological pathways.",
   "main": "./index.js",
   "engines": {
@@ -122,7 +122,7 @@
     "insert-css": "~0.2.0",
     "jsondiffpatch": "~0.1.31",
     "jsonld": "^0.3.22",
-    "kaavio": "git://github.com/wikipathways/kaavio.git#2.3.2",
+    "kaavio": "git://github.com/wikipathways/kaavio.git#2.3.4",
     "mithril": "~0.1.30",
     "promisescript": "~1.1.0",
     "tower-strcase": "~0.5.0",
