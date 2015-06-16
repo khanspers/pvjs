@@ -1,4 +1,9 @@
 {
+  "entries": [
+    "./lib/custom-element.js",
+    "./lib/jquery-plugin.js",
+    "./lib/diff-viewer/diff-viewer.js"
+  ],
   "metadataFilePaths": [
     "./bower.json",
     "./component.json",
